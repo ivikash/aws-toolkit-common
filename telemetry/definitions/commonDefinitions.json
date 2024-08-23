@@ -5798,7 +5798,8 @@
                     "type": "featureVariation"
                 },
                 {
-                    "type": "id"
+                    "type": "id",
+                    "required": true
                 }
             ]
         },
